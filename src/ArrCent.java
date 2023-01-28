@@ -8,7 +8,7 @@
 public class ArrCent {
 
     public static void main(String[] args) {
-        printArray(getArrayMiddle(new int[] {5, 7}));
+        printArray(getArrayMiddle(new int[] {5, 7, 13}));
     }
 
     public static int[] getArrayMiddle(int[] numbers) {
