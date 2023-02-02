@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b693d1f6-c44a-4689-836b-8a6b65d0a920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EnumDayz.java" afterDir="false" />
+    <list default="true" id="b693d1f6-c44a-4689-836b-8a6b65d0a920" name="Changes" comment="процесс прохождения java core">
+      <change afterPath="$PROJECT_DIR$/src/Ascii.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EnumDayz">
+  <component name="RunManager" selected="Application.Ascii">
+    <configuration name="Ascii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ascii" />
+      <module name="JavaCore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnumDayz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumDayz" />
       <module name="JavaCore" />
@@ -55,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ascii" />
         <item itemvalue="Application.EnumDayz" />
         <item itemvalue="Application.RepackArray" />
       </list>
@@ -69,6 +77,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674670970638</updated>
     </task>
+    <task id="LOCAL-00001" summary="процесс прохождения java core">
+      <created>1675371643251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675371643251</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="процесс прохождения java core" />
+    <option name="LAST_COMMIT_MESSAGE" value="процесс прохождения java core" />
   </component>
 </project>
