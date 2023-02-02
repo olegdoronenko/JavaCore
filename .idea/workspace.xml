@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b693d1f6-c44a-4689-836b-8a6b65d0a920" name="Changes" comment="процесс прохождения курса">
-      <change afterPath="$PROJECT_DIR$/src/EqualsAndHash.java" afterDir="false" />
+    <list default="true" id="b693d1f6-c44a-4689-836b-8a6b65d0a920" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EnumDayz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,30 +38,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EqualsAndHash">
-    <configuration name="CatAndDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CatAndDog" />
-      <module name="JavaCore" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualsAndHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualsAndHash" />
-      <module name="JavaCore" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HumanClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HumanClass" />
-      <module name="JavaCore" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex" />
+  <component name="RunManager" selected="Application.EnumDayz">
+    <configuration name="EnumDayz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumDayz" />
       <module name="JavaCore" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,10 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EqualsAndHash" />
-        <item itemvalue="Application.HumanClass" />
-        <item itemvalue="Application.CatAndDog" />
-        <item itemvalue="Application.Regex" />
+        <item itemvalue="Application.EnumDayz" />
         <item itemvalue="Application.RepackArray" />
       </list>
     </recent_temporary>
@@ -93,32 +69,6 @@
       <option name="presentableId" value="Default" />
       <updated>1674670970638</updated>
     </task>
-    <task id="LOCAL-00001" summary="процесс прохождения курса">
-      <created>1674934269136</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674934269136</updated>
-    </task>
-    <task id="LOCAL-00002" summary="процесс прохождения курса">
-      <created>1674994245203</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674994245203</updated>
-    </task>
-    <task id="LOCAL-00003" summary="процесс прохождения курса">
-      <created>1675114872878</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1675114872878</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="процесс прохождения курса" />
-    <option name="LAST_COMMIT_MESSAGE" value="процесс прохождения курса" />
   </component>
 </project>
